@@ -1,1 +1,1 @@
-(demo)[https://3-d-model-catalog.vercel.app/]
+[demo](https://3-d-model-catalog.vercel.app/)
